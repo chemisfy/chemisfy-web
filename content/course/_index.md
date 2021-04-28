@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Cursos
 type: page
 
 header:
