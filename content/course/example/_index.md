@@ -1,5 +1,5 @@
 ---
-title: 📊 Electromagnatisme
+title: 📊 Electromagnetisme
 linkTitle: Física de batxillerat
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
