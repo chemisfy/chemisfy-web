@@ -1,5 +1,5 @@
 ---
-title: 📚 Cursos
+title: 📚 Unitats didàctiques
 type: page
 
 header:
@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore our courses below and expand your knowledge!
+Unitats didàctiques de les assignatures de física i química de l'ESO i el batxillerat.
